@@ -1,7 +1,6 @@
 #include "src.hpp"
 
-// This file is just for compilation purposes
-// The actual testing will be done by including CrossArray.hpp
+// Empty main for compilation purposes
 int main() {
     return 0;
 }
